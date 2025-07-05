@@ -49,6 +49,7 @@ getInfo().then(result => {
 ```
 
 ## Sample Output
+
 Account Status - 5/7/2025, 11:57:00
 
 Name: John Doe
