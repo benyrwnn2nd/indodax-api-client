@@ -1,0 +1,24 @@
+{
+  "name": "indodax-api-client",
+  "version": "1.0.0",
+  "description": "A Node.js client for interacting with the Indodax Private API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "indodax",
+    "cryptocurrency",
+    "api-client",
+    "trading"
+  ],
+  "author": "benyrwnn",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benyrwnn2nd/indodax-api-client.git"
+  }
+}
